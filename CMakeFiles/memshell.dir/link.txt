@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wall -Werror -std=gnu11 -rdynamic CMakeFiles/memshell.dir/src/memshell.c.o -o memshell  -Wl,-rpath,/home/ensimag/S7/sepc/LW libemalloc.so 
